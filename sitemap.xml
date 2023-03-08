@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>hendert5.github.io</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -32,15 +32,55 @@
 </url>
 <url>
 	<loc>hendert5.github.io/projects/</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>hendert5.github.io/img/placeholder-image-wide.png</image:loc>
+	<image:loc>hendert5.github.io/img/EagleCam_Patch.png</image:loc>
+	<image:title>EagleCam_Patch</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/EagleCam_Patch.webp</image:loc>
+	<image:title>EagleCam_Patch</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/eaglecam.jpg</image:loc>
 	<image:title>placeholder image-wide</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>hendert5.github.io/img/placeholder-image-wide.webp</image:loc>
+	<image:loc>hendert5.github.io/img/eaglecam.webp</image:loc>
+	<image:title>placeholder image-wide</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/mission_conops.jpeg</image:loc>
+	<image:title>mission_conops.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/mission_conops.webp</image:loc>
+	<image:title>mission_conops.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/team.jpg</image:loc>
+	<image:title>team</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/team.webp</image:loc>
+	<image:title>team</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/LLAMAS_Patch_modified.png</image:loc>
+	<image:title>LLAMAS_Patch_modified</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/LLAMAS_Patch_modified.webp</image:loc>
+	<image:title>LLAMAS_Patch_modified</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/polaris.jpg</image:loc>
+	<image:title>placeholder image-wide</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>hendert5.github.io/img/polaris.webp</image:loc>
 	<image:title>placeholder image-wide</image:title>
 	</image:image>
 	<image:image>
@@ -54,7 +94,7 @@
 </url>
 <url>
 	<loc>hendert5.github.io/publications/</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -68,7 +108,7 @@
 </url>
 <url>
 	<loc>hendert5.github.io/about-us/</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -106,7 +146,7 @@
 </url>
 <url>
 	<loc>hendert5.github.io/the-team/</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -128,7 +168,7 @@
 </url>
 <url>
 	<loc>hendert5.github.io/capabilities/</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -166,7 +206,7 @@
 </url>
 <url>
 	<loc>hendert5.github.io/contact-us/</loc>
-	<lastmod>2023-03-07</lastmod>
+	<lastmod>2023-03-08</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>

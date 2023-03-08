@@ -273,6 +273,9 @@ button{
 }
 
 
+.text-justify{
+	text-align: justify;
+}
 
 
 /* = Cards
@@ -362,11 +365,52 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-style{
 	width:100%;
-	font-size:15px;
+	font-size:24px;
 }
 .navbar-brand img{
 	width:200px;
 	height:200px;
+}
+.h2-style{
+	font-size:40px;
+}
+.p-bloc-6-style{
+	font-size:24px;
+}
+.img-style{
+	width:500px;
+	height:500px;
+}
+.img-bloc-7-style{
+	width:500px;
+	height:500px;
+}
+.h2-bloc-6-style{
+	font-size:36px;
+}
+.h2-bloc-7-style{
+	font-size:36px;
+}
+.p-bloc-7-style{
+	font-size:24px;
+}
+.link-style{
+	font-size:24px;
+}
+.h2-bloc-9-style{
+	font-size:40px;
+}
+.p-bloc-9-style{
+	font-size:24px;
+}
+.h3-style{
+	font-size:36px;
+}
+.p-bloc-11-style{
+	font-size:24px;
+}
+.h2-contact-us-style{
+	font-size:36px;
 }
 
 /* = Colour
@@ -383,6 +427,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-Unnamed-Swatch-copy-1:#FFFFFF;
 	
+	--swatch-var-3361:#FF0000;
+	
 }
 
 
@@ -397,8 +443,31 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .tc-3270{
 	color:var(--swatch-var-3270)!important;
 }
+.tc-2869{
+	color:var(--swatch-var-Unnamed-Swatch)!important;
+}
 .tc-2941{
 	color:var(--swatch-var-Unnamed-Swatch-copy-1)!important;
+}
+
+/* Button colour styles */
+
+.btn-c-3361{
+	background:var(--swatch-var-3361);
+	color:#FFFFFF!important;
+}
+.btn-c-3361:hover{
+	background:#CC0000!important;
+	color:#FFFFFF!important;
+}
+
+/* Link colour styles */
+
+.ltc-3270{
+	color:var(--swatch-var-3270)!important;
+}
+.ltc-3270:hover{
+	color:#CCCCCC!important;
 }
 
 /* Bloc image backgrounds */
